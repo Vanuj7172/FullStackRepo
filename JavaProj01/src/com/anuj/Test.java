@@ -11,6 +11,17 @@ public class Test {
 	
 	}
 	
+	
+	public static void  addPayment() {
+		
+		System.out.println("add payment");
+
+		int d=62153;
+
+	
+	}
+	
+	
 	public static void  m2() {
 		
 		System.out.println("dev-m2-method");
